@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TodoList" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_blue</item>
+        <item name="colorPrimaryContainer">@color/nav_bg</item>
+        <item name="android:statusBarColor">@color/nav_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

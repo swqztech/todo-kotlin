@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_blue">#4882DC</color>
+    <color name="page_bg">#F5F8FC</color>
+    <color name="nav_bg">#EEF4FB</color>
+    <color name="text_primary">#1E2834</color>
+    <color name="text_muted">#788291</color>
+    <color name="border">#D2DAE6</color>
+    <color name="row_selected">#F0F4FA</color>
+    <color name="danger">#C62828</color>
+    <color name="white">#FFFFFF</color>
+</resources>
